@@ -30,6 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 
 <img src='https://user-images.githubusercontent.com/67671578/223304436-53bcbcb4-bd66-4c83-98de-719862d2e6f1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/67671578/223572325-6399e795-50d4-47f5-8e5c-0bd08a11dc1d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
