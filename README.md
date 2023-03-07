@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 ![Animation])
 
 
-<img src='(https://user-images.githubusercontent.com/67671578/223302935-c43defe8-f768-4a2b-89a1-bba53f3d727c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/67671578/223304436-53bcbcb4-bd66-4c83-98de-719862d2e6f1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
